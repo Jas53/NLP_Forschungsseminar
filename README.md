@@ -1,1 +1,1 @@
-# NLP_Forschungsseminar
+# Forschungsseminar: NLP Projekt
