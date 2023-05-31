@@ -3,3 +3,4 @@
 .ipynb_checkpoints/
 *.xml*
 read_xml*
+00_backup/
